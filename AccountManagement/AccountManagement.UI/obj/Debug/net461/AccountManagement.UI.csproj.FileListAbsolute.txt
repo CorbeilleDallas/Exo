@@ -1,0 +1,11 @@
+C:\Users\Wazaa\Desktop\EXOs2018\AccountManagement\AccountManagement.UI\bin\Debug\net461\AccountManagement.UI.exe
+C:\Users\Wazaa\Desktop\EXOs2018\AccountManagement\AccountManagement.UI\bin\Debug\net461\AccountManagement.UI.pdb
+C:\Users\Wazaa\Desktop\EXOs2018\AccountManagement\AccountManagement.UI\bin\Debug\net461\AccountManagement.Model.dll
+C:\Users\Wazaa\Desktop\EXOs2018\AccountManagement\AccountManagement.UI\bin\Debug\net461\AccountManagement.Model.pdb
+C:\Users\Wazaa\Desktop\EXOs2018\AccountManagement\AccountManagement.UI\obj\Debug\net461\AccountManagement.UI.csprojAssemblyReference.cache
+C:\Users\Wazaa\Desktop\EXOs2018\AccountManagement\AccountManagement.UI\obj\Debug\net461\AccountManagement.UI.csproj.CoreCompileInputs.cache
+C:\Users\Wazaa\Desktop\EXOs2018\AccountManagement\AccountManagement.UI\obj\Debug\net461\AccountManagement.UI.AssemblyInfoInputs.cache
+C:\Users\Wazaa\Desktop\EXOs2018\AccountManagement\AccountManagement.UI\obj\Debug\net461\AccountManagement.UI.AssemblyInfo.cs
+C:\Users\Wazaa\Desktop\EXOs2018\AccountManagement\AccountManagement.UI\obj\Debug\net461\AccountManagement.UI.csproj.CopyComplete
+C:\Users\Wazaa\Desktop\EXOs2018\AccountManagement\AccountManagement.UI\obj\Debug\net461\AccountManagement.UI.exe
+C:\Users\Wazaa\Desktop\EXOs2018\AccountManagement\AccountManagement.UI\obj\Debug\net461\AccountManagement.UI.pdb
