@@ -1,8 +1,0 @@
-C:\Users\Wazaa\Desktop\EXOs2018\AccountManagement\AccountManagement.Model\bin\Debug\net461\AccountManagement.Model.dll
-C:\Users\Wazaa\Desktop\EXOs2018\AccountManagement\AccountManagement.Model\bin\Debug\net461\AccountManagement.Model.pdb
-C:\Users\Wazaa\Desktop\EXOs2018\AccountManagement\AccountManagement.Model\obj\Debug\net461\AccountManagement.Model.csprojAssemblyReference.cache
-C:\Users\Wazaa\Desktop\EXOs2018\AccountManagement\AccountManagement.Model\obj\Debug\net461\AccountManagement.Model.csproj.CoreCompileInputs.cache
-C:\Users\Wazaa\Desktop\EXOs2018\AccountManagement\AccountManagement.Model\obj\Debug\net461\AccountManagement.Model.AssemblyInfoInputs.cache
-C:\Users\Wazaa\Desktop\EXOs2018\AccountManagement\AccountManagement.Model\obj\Debug\net461\AccountManagement.Model.AssemblyInfo.cs
-C:\Users\Wazaa\Desktop\EXOs2018\AccountManagement\AccountManagement.Model\obj\Debug\net461\AccountManagement.Model.dll
-C:\Users\Wazaa\Desktop\EXOs2018\AccountManagement\AccountManagement.Model\obj\Debug\net461\AccountManagement.Model.pdb
